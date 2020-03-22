@@ -3,7 +3,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "/assets/AssetManifest.json": "3659a96cfa26ad9c9feb42156519843d",
 "/assets/assets/background.jpg": "29620517d49b03f221f0b9455a3d6dd1",
-"/assets/assets/background_clean.jpg": "6ce2b87c76090e61aa0deaaccfb05529",
+"/assets/assets/background_clean.jpg": "12b4bec76040a060b744e6995bbaa32f",
 "/assets/assets/clientes.png": "4a5593a7c22c84a052f2b52673cb0edc",
 "/assets/assets/consulting.jpg": "52c5b4cf4a277c71c40426a82ed2c412",
 "/assets/assets/consultoria.png": "ab60d175f9716c7cea168fda3c2704df",
