@@ -1,13 +1,14 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "/assets/AssetManifest.json": "3659a96cfa26ad9c9feb42156519843d",
+  "/assets/AssetManifest.json": "c5dafbbbe6b529b852bbe8f3d69c1a1a",
 "/assets/assets/background.jpg": "29620517d49b03f221f0b9455a3d6dd1",
 "/assets/assets/background_clean.jpg": "12b4bec76040a060b744e6995bbaa32f",
 "/assets/assets/clientes.png": "4a5593a7c22c84a052f2b52673cb0edc",
 "/assets/assets/consulting.jpg": "52c5b4cf4a277c71c40426a82ed2c412",
 "/assets/assets/consultoria.png": "ab60d175f9716c7cea168fda3c2704df",
 "/assets/assets/contact.jpg": "56906a1fb513d929f6a5ed67272f314f",
+"/assets/assets/contact.png": "84ca71375e5b4c9d10ab722c18fc1ed8",
 "/assets/assets/evaluacion.png": "ddad87f4cb3697242c1b74ab9be0409d",
 "/assets/assets/evaluation.jpg": "69a32f3fd3e914f91eb794fc217968b5",
 "/assets/assets/facebook.png": "d9b3207bc99623dd76d272f2f479fb15",
@@ -30,7 +31,7 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "/index.html": "feda529323f56744bf1c1df1e9df9f8e",
-"/main.dart.js": "746870051b66d73c759615a8a40118b6",
+"/main.dart.js": "8fd22a36547c0f73d468927e33e15c79",
 "/manifest.json": "1f92c99c36969b0467528859f957607e"
 };
 
