@@ -1,10 +1,15 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "/assets/AssetManifest.json": "c5dafbbbe6b529b852bbe8f3d69c1a1a",
+  "/assets/AssetManifest.json": "22ef1c6a2dbdc62f0bd43d97f60eaf00",
 "/assets/assets/background.jpg": "29620517d49b03f221f0b9455a3d6dd1",
 "/assets/assets/background_clean.jpg": "12b4bec76040a060b744e6995bbaa32f",
 "/assets/assets/clientes.png": "4a5593a7c22c84a052f2b52673cb0edc",
+"/assets/assets/client_argontech.png": "bafc04a31d26cf508779b7546160c0bd",
+"/assets/assets/client_naranja.png": "18be5926f49bbc8976f2293107e7062b",
+"/assets/assets/client_nasa.png": "b5ab69c34327083abd5cbb163ef3e0de",
+"/assets/assets/client_onep.png": "6bff53169828fc5060fe541383c974ce",
+"/assets/assets/client_vn.png": "f9ceaaf51d8fc0a42f31a8286ce4fed5",
 "/assets/assets/consulting.jpg": "52c5b4cf4a277c71c40426a82ed2c412",
 "/assets/assets/consultoria.png": "ab60d175f9716c7cea168fda3c2704df",
 "/assets/assets/contact.jpg": "56906a1fb513d929f6a5ed67272f314f",
@@ -31,7 +36,7 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "/index.html": "feda529323f56744bf1c1df1e9df9f8e",
-"/main.dart.js": "56360ba060cca281443e75148a94e27c",
+"/main.dart.js": "d6680570918bcbca8b6d265205cb3fd3",
 "/manifest.json": "1f92c99c36969b0467528859f957607e"
 };
 
