@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "/assets/AssetManifest.json": "22ef1c6a2dbdc62f0bd43d97f60eaf00",
+  "/assets/AssetManifest.json": "b5f5761d1187b656426dd0714f3e20a0",
 "/assets/assets/background.jpg": "29620517d49b03f221f0b9455a3d6dd1",
 "/assets/assets/background_clean.jpg": "12b4bec76040a060b744e6995bbaa32f",
 "/assets/assets/clientes.png": "4a5593a7c22c84a052f2b52673cb0edc",
@@ -26,9 +26,11 @@ const RESOURCES = {
 "/assets/assets/talents.jpg": "4499a5332fcf613119c8764c26393edd",
 "/assets/assets/we.jpg": "9dc04d666b4548e272451c2793e2d7df",
 "/assets/assets/whatsapp.png": "81f9842aa3f3882c3a1d072a026e83cb",
-"/assets/FontManifest.json": "18eda8e36dfa64f14878d07846d6e17f",
+"/assets/FontManifest.json": "deb00e1046a823441c74e2280cdcd4c7",
+"/assets/fonts/AL_LePORSCHE_PersonalUseOnly.ttf": "09c9532c411b734bc0185d7f2c19353b",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"/assets/LICENSE": "d33ef91063d303a9847c2c8169ebaad8",
+"/assets/fonts/yugothic.ttf": "e587ff1ab1a23fdeee65c351de5ffde4",
+"/assets/LICENSE": "ad180f4e32e012b02da190af7bdbbf46",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "51d23d1c30deda6f34673e0d5600fd38",
 "/assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "d51b09f7b8345b41dd3b2201f653c62b",
@@ -36,7 +38,7 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "/index.html": "feda529323f56744bf1c1df1e9df9f8e",
-"/main.dart.js": "9c21ba3af717194c3a16b67bb01b9d72",
+"/main.dart.js": "b4bfbb1a8063e44168b472b097378e2a",
 "/manifest.json": "1f92c99c36969b0467528859f957607e"
 };
 
